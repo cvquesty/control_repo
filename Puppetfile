@@ -14,3 +14,8 @@ mod "puppetlabs/stdlib"
 mod "puppetlabs/vcsrepo"
 mod "saz/resolv_conf"
 mod "zack/r10k"
+
+# Modules not in the Puppet Forge
+mod 'ssh',
+  :git => 'https://github.com/cvquesty/ssh.git',
+  :ref => 'development'
