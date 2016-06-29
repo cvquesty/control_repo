@@ -23,3 +23,8 @@ mod "zack/r10k"
 mod 'ssh',
   :git => 'https://github.com/cvquesty/ssh.git',
   :ref => 'development'
+
+# Sample Profiles Module
+mod 'profiles',
+  :git => 'https://github.com/cvquesty/profiles.git',
+  :ref => 'development'
