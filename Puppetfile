@@ -28,3 +28,8 @@ mod 'ssh',
 mod 'profiles',
   :git => 'https://github.com/cvquesty/profiles.git',
   :ref => 'development'
+
+# Sample Roles Module
+mod 'roles',
+  :git => 'https://github.com/cvquesty/roles.git',
+  :ref => 'development'
