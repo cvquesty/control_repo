@@ -17,6 +17,7 @@ mod "puppetlabs/pe_gem"
 mod "puppetlabs/stdlib"
 mod "puppetlabs/vcsrepo"
 mod "saz/resolv_conf"
+mod "vshn/gitlab"
 mod "zack/r10k"
 
 # Modules not in the Puppet Forge
