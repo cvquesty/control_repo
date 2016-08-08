@@ -18,13 +18,10 @@ mod "puppetlabs/ruby"
 mod "puppetlabs/stdlib"
 mod "puppetlabs/vcsrepo"
 mod "saz/resolv_conf"
+mod "stahnma/epel"
 mod "zack/r10k"
 
 # Non-Forge Modules
 mod 'profiles',
   :git => 'https://github.com/cvquesty/profiles.git',
-  :ref => 'development'
-
-mod 'forge_server',
-  :git => 'https://github.com/cvquesty/puppet-forge_server.git',
   :ref => 'development'
