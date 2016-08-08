@@ -19,6 +19,7 @@ mod "puppetlabs/stdlib"
 mod "puppetlabs/vcsrepo"
 mod "saz/resolv_conf"
 mod "stahnma/epel"
+mod "unibet/forge_server"
 mod "zack/r10k"
 
 # Non-Forge Modules
