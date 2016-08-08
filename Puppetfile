@@ -17,6 +17,12 @@ mod "puppetlabs/pe_gem"
 mod "puppetlabs/ruby"
 mod "puppetlabs/stdlib"
 mod "puppetlabs/vcsrepo"
+mod "stahnma/epel"
 mod "unibet/forge_server"
 mod "saz/resolv_conf"
 mod "zack/r10k"
+
+# Non-Forge Modules
+mod 'profiles',
+  :git => 'https://github.com/cvquesty/profiles.git',
+  :ref => 'production'
