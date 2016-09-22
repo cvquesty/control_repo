@@ -26,3 +26,7 @@ mod "zack/r10k"
 mod 'profiles',
   :git => 'https://github.com/cvquesty/profiles.git',
   :ref => 'development'
+
+mod 'myusers',
+  :git => 'https://github.com/cvquesty/myusers.git',
+  :ref => 'development'
