@@ -4,6 +4,7 @@ forge "http://forge.puppetlabs.com"
 # Modules from the Puppet Forge
 mod "croddy/make"
 mod "cvquesty/puppetdev"
+mod "fsalum/dashboard"
 mod "gentoo/portage"
 mod "hunner/hiera"
 mod "puppetlabs/apache"
