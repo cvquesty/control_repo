@@ -39,6 +39,6 @@ node default {
   #   class { 'my_class': }
 }
 
-node 'centos.puppet.vm' {
-
-}
+node 'centos.puppet.vm' { }
+node 'precise.puppet.vm' { }
+node 'trusty.puppet.vm' { }
