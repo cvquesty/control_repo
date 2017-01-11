@@ -40,5 +40,5 @@ node default {
 }
 
 node 'centos.puppet.vm' {
-  include ::apache
+
 }
