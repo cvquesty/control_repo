@@ -23,8 +23,3 @@ mod "stahnma/epel"
 mod "unibet/forge_server"
 mod "saz/resolv_conf"
 mod "zack/r10k"
-
-# Non-Forge Modules
-mod 'profiles',
-  :git => 'https://github.com/cvquesty/profiles.git',
-  :ref => 'production'
